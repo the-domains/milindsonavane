@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T19:46:43.409Z'
-dateModified: '2016-03-04T19:46:23.079Z'
+datePublished: '2016-03-04T19:56:26.829Z'
+dateModified: '2016-03-04T19:52:14.838Z'
 title: 'Designer, Technologist, Entrepreneur, Maker, Artist... Fusionist from India.'
 author: []
+sourcePath: _posts/2016-03-04-designer-technologist-entrepreneur-maker-artist-fusio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-designer-technologist-entrepreneur-maker-artist-fusio.md
-published: true
 url: designer-technologist-entrepreneur-maker-artist-fusio/index.html
 _type: Article
 
