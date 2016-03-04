@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T20:51:34.335Z'
-dateModified: '2016-03-04T20:49:18.470Z'
+datePublished: '2016-03-04T20:57:09.870Z'
+dateModified: '2016-03-04T20:51:44.066Z'
 title: 'Rural Roots, Connected Learning'
 author: []
 sourcePath: _posts/2016-03-04-rural-roots-connected-learning.md
