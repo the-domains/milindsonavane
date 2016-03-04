@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T19:40:55.718Z'
-dateModified: '2016-03-04T19:40:53.103Z'
+datePublished: '2016-03-04T19:47:25.636Z'
+dateModified: '2016-03-04T19:47:18.837Z'
 title: Artistic Development
 author: []
+sourcePath: _posts/2016-03-04-artistic-development.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-artistic-development.md
-published: true
-url: artistic-development/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Artistic Development
