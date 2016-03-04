@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T23:39:37.204Z'
-dateModified: '2016-03-04T23:39:31.377Z'
+datePublished: '2016-03-04T23:47:09.340Z'
+dateModified: '2016-03-04T23:39:46.021Z'
 title: Artistic Development
 author: []
 sourcePath: _posts/2016-03-04-artistic-development.md
