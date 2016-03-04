@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T19:38:04.188Z'
-dateModified: '2016-03-04T19:38:03.283Z'
+datePublished: '2016-03-04T22:30:45.639Z'
+dateModified: '2016-03-04T19:48:03.208Z'
 title: 'The Way Ahead '
 author: []
+sourcePath: _posts/2016-03-04-the-way-ahead.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-the-way-ahead.md
-published: true
-url: the-way-ahead/index.html
-_type: Article
+_type: Blurb
 
 ---
 # The Way Ahead 
