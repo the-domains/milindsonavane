@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T22:18:38.112Z'
-dateModified: '2016-03-04T22:18:04.833Z'
+datePublished: '2016-03-04T22:30:29.649Z'
+dateModified: '2016-03-04T22:30:16.654Z'
 title: Artistic Development
 author: []
 sourcePath: _posts/2016-03-04-artistic-development.md
@@ -22,7 +23,6 @@ _type: Blurb
 
 ---
 # Artistic Development
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c9fb52d-75db-4617-b59a-8dd534c0a4df.jpg)
 
 My secondary education took place in a slightly larger public 
 residential school, which was run much in the manner of a military 
@@ -33,6 +33,7 @@ competitions for making clay Ganesha idols for annual festivities. This
 was also the time when I got involved seriously with art, giving my 
 initial state-sponsored exams that would lead me to graduate in applied 
 arts.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c9fb52d-75db-4617-b59a-8dd534c0a4df.jpg)
 
 The pursuit of higher education brought me to the city of Pune, where I 
 would spend the next five years studying for my Bachelor's Degree in 
