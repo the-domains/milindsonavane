@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T19:47:25.636Z'
-dateModified: '2016-03-04T19:47:18.837Z'
+datePublished: '2016-03-04T22:18:38.112Z'
+dateModified: '2016-03-04T22:18:04.833Z'
 title: Artistic Development
 author: []
 sourcePath: _posts/2016-03-04-artistic-development.md
@@ -23,6 +22,7 @@ _type: Blurb
 
 ---
 # Artistic Development
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c9fb52d-75db-4617-b59a-8dd534c0a4df.jpg)
 
 My secondary education took place in a slightly larger public 
 residential school, which was run much in the manner of a military 
