@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T19:39:29.771Z'
-dateModified: '2016-03-04T19:39:28.966Z'
+datePublished: '2016-03-04T22:30:41.330Z'
+dateModified: '2016-03-04T19:47:47.563Z'
 title: Professional Endeavours
 author: []
+sourcePath: _posts/2016-03-04-professional-endeavours.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-professional-endeavours.md
-published: true
-url: professional-endeavours/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Professional Endeavours
