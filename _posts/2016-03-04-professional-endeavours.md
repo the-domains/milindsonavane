@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T00:45:53.420Z'
-dateModified: '2016-03-05T00:45:46.460Z'
+datePublished: '2016-03-05T00:47:37.053Z'
+dateModified: '2016-03-05T00:47:15.683Z'
 title: Professional Endeavours
 author: []
 sourcePath: _posts/2016-03-04-professional-endeavours.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Professional Endeavours
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e88c986d-7e32-4dda-9549-6a24ae1eee9f.jpg)
 
 I felt the impact of a globalized India like never before as soon as I 
 stepped into the professional world. If my formative years had given me 
