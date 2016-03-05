@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T23:22:58.032Z'
-dateModified: '2016-03-04T23:22:37.587Z'
+datePublished: '2016-03-05T00:45:53.420Z'
+dateModified: '2016-03-05T00:45:46.460Z'
 title: Professional Endeavours
 author: []
+sourcePath: _posts/2016-03-04-professional-endeavours.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-professional-endeavours.md
-published: true
 url: professional-endeavours/index.html
 _type: Article
 
