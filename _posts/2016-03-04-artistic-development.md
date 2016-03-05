@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T00:38:07.718Z'
-dateModified: '2016-03-05T00:37:35.392Z'
+datePublished: '2016-03-05T00:39:19.552Z'
+dateModified: '2016-03-05T00:39:07.037Z'
 title: Artistic Development
 author: []
 sourcePath: _posts/2016-03-04-artistic-development.md
@@ -33,6 +33,7 @@ competitions for making clay Ganesha idols for annual festivities. This
 was also the time when I got involved seriously with art, giving my 
 initial state-sponsored exams that would lead me to graduate in applied 
 arts.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e5cc565-8101-431f-afab-2f87a5d11858.png)
 
 The pursuit of higher education brought me to the city of Pune, where I 
 would spend the next five years studying for my Bachelor's Degree in 
@@ -40,5 +41,4 @@ Applied Arts. The great thing about Abhinav Art Institute was that despite
 different departments, the entire mass of 
 students did not work in a department vacuum, and got exposed to each others streams with great effect. This period had a long standing 
 impact on my development as an artist.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e5cc565-8101-431f-afab-2f87a5d11858.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/94aad38d1e11d1598a2bff2da5536ae03851e3f8.png)
