@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T23:47:09.340Z'
-dateModified: '2016-03-04T23:39:46.021Z'
+datePublished: '2016-03-05T00:00:10.119Z'
+dateModified: '2016-03-04T23:59:26.242Z'
 title: Artistic Development
 author: []
 sourcePath: _posts/2016-03-04-artistic-development.md
@@ -40,6 +40,5 @@ Applied Arts. The great thing about Abhinav Art Institute was that despite
 different departments, the entire mass of 
 students did not work in a department vacuum, and got exposed to each others streams with great effect. This period had a long standing 
 impact on my development as an artist.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19c6905a-5e91-4590-b54a-90226c925489.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e5cc565-8101-431f-afab-2f87a5d11858.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a4fa022-197f-4a40-b47c-a97bcd2a9353.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67ec7b3a-e431-4e28-83a7-b08553bf5786.png)
