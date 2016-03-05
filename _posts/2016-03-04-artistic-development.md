@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T00:00:10.119Z'
-dateModified: '2016-03-04T23:59:26.242Z'
+datePublished: '2016-03-05T00:35:23.486Z'
+dateModified: '2016-03-05T00:01:32.363Z'
 title: Artistic Development
 author: []
 sourcePath: _posts/2016-03-04-artistic-development.md
@@ -41,4 +41,4 @@ different departments, the entire mass of
 students did not work in a department vacuum, and got exposed to each others streams with great effect. This period had a long standing 
 impact on my development as an artist.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e5cc565-8101-431f-afab-2f87a5d11858.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a4fa022-197f-4a40-b47c-a97bcd2a9353.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/94aad38d1e11d1598a2bff2da5536ae03851e3f8.png)
