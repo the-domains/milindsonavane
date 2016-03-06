@@ -4,8 +4,15 @@
         <description><![CDATA[Milind/Sonavane]]></description>
         <link>https://thegrid.ai/milindsonavane/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 14:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:07:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/milindsonavane/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GramoPaint]]></title>
+            <description><![CDATA[<article><h1>GramoPaint</h1><p>Gramopaint is an arc art generator powered by electronics from littleBits, and 3d printed components. It breaks away from the pure symmetric patterns of conventional spirographs, offers creative control to the user and presents hours of fun and meditative creativity through the power of arcs and cycles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cf88dddb4f46ff308d38e1950ce0e9c23fba4a7.jpg"></article>]]></description>
+            <link>https://vimeo.com/107115913</link>
+            <guid isPermaLink="false">8fd95a3f-1a8b-438d-ab96-72125ba7ecfe</guid>
+            <pubDate>Sun, 06 Mar 2016 15:06:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Designer, Technologist, Entrepreneur, Maker, Artist... Fusionist from India.]]></title>
             <description><![CDATA[<article><h1>Designer, Technologist, Entrepreneur, Maker, Artist... Fusionist from India.</h1><p>Every subsequent stage of my life has given me skills, ideas and experiences that, logically and emotionally, now point towards New Media Design as the basis for the work of my life. 
@@ -97,13 +104,6 @@ connected with the world in this way, through my work.</p><img src="https://s3-u
             <link>https://vimeo.com/115063814</link>
             <guid isPermaLink="false">793ee3d4-7482-46cf-b9a4-02ce7d2e12eb</guid>
             <pubDate>Fri, 04 Mar 2016 23:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>milind.sonavane@gmail.com</p>]]></description>
-            <link>https://thegrid.ai/milindsonavane/84fe873a-7a77-4ea6-885b-32f990d87ece/index.html</link>
-            <guid isPermaLink="false">84fe873a-7a77-4ea6-885b-32f990d87ece</guid>
-            <pubDate>Fri, 04 Mar 2016 23:10:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
